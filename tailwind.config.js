@@ -20,7 +20,9 @@ module.exports = {
             '50.01%, 100%': { opacity: '0' },
           },
         },
-      
+        fontFamily: {
+          display: ['"Cascadia Code"', 'monospace'],
+        }
       },
   },
   plugins: [],
